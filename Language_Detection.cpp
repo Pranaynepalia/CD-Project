@@ -108,3 +108,4 @@ int main() {
     cout << "The detected language is: " << language << endl;
     return 0;
 }
+
